@@ -15,12 +15,14 @@ machine-learning-bmi-heart-disease-classifier
 ### Heart Disease Screen
 ![heart](https://github.com/user-attachments/assets/0fd53576-39bc-468b-87dc-6ea2eecffb93)
 
-####with different algorithm
+#### with different algorithm
 ![heart2](https://github.com/user-attachments/assets/8ed369b7-a047-4b73-8cf5-f3031189d969)
 
 
 ## graphs of datasets
 ![grafik](https://github.com/user-attachments/assets/fce94ea0-d975-425d-8611-15e2ad85790a)
+
+#
 
 ![greafik2](https://github.com/user-attachments/assets/2a0526fa-1ef7-4195-a160-5fec055a5c0e)
 
